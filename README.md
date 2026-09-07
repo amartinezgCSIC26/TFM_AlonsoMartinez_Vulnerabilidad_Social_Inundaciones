@@ -5,6 +5,7 @@ la estandarización de los indicadores urbanos.
 Este proyecto propone un marco metodológico de análisis espacial mediante EMC a escala de parcela catastral fundamentado 
 en la desagregación dasimétrica de estadísticas oficiales del INE y en la normalización de las variables por diferentes 
 métodos. La metodología se ha aplicado para elaborar un índice de vulnerabilidad social para 8 municipios de Valencia. 
+tras la DANA de octubre de 2024 y, poder adoptar medidas de prevención ante inundaciones.
 
 El script llamado traspasar_datos.py ejecuta la desagregación dsimétrica de la información del Censo de Población y 
 Viviendas desde la sección censal hasta la parcela catastral, utilizando el recuento de viviendas residenciales como 
